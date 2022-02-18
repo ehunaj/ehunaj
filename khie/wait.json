@@ -1,0 +1,103 @@
+{
+    "GN": "",
+    "GROUP": {
+        "AM": {
+            "AP": {}
+        },
+        "AR": {
+            "AP": [],
+            "P": {},
+            "S": {}
+        },
+        "LM": {
+            "AP": [],
+            "P": "Hallo @!Knapa left ?"
+        },
+        "S": {
+            "AP": false,
+            "Sticker": {
+                "STKID": "17888",
+                "STKPKGID": "1071",
+                "STKTXT": "[Sticker]",
+                "STKVER": "3"
+            }
+        },
+        "WM": {
+            "AP": [],
+            "P": {},
+            "S": {
+                "AP": false,
+                "Sticker": {
+                    "STKID": "52114116",
+                    "STKOPT": "A",
+                    "STKPKGID": "11539",
+                    "STKTXT": "[Sticker]",
+                    "STKVER": "1"
+                }
+            }
+        }
+    },
+    "MessageCount": true,
+    "ROM": {
+        "msg.id": [],
+        "waktu": []
+    },
+    "ROM1": {},
+    "Unsend": {
+        "B": []
+    },
+    "aadmin": {},
+    "ablacklist": {},
+    "autoAdd": true,
+    "autoJoin": true,
+    "autoJoinBypass": false,
+    "autoJoinCancel": false,
+    "autoJoinTicket": true,
+    "autoLike": true,
+    "blacklist": {},
+    "bots": [],
+    "comment": false,
+    "dadmin": {},
+    "dblacklist": {},
+    "info": {},
+    "invite": false,
+    "limit": {},
+    "lurkauto": false,
+    "lurkp": {},
+    "lurkt": {},
+    "members": 1,
+    "memberscancel": 30,
+    "mention": "║┝──────────────\n║│Yuk kak chat sini 🙋\n║╰❉ Jangan ngelamun😁\n╰━━━━━━━━━━━━━━\n  ━━━━┅═❉ই۝ई❉═┅━━━━",
+    "message": "Trimakasih kakak sudah add aku\nAdd juga Creator ku",
+    "name": {},
+    "notificationCall": [],
+    "notificationCallPrank": [],
+    "owner": [],
+    "pesanCall": "",
+    "picture": false,
+    "picture1": false,
+    "postId": [],
+    "prankCall": {
+        "audio": "",
+        "live": "",
+        "video": ""
+    },
+    "proccl": false,
+    "proinv": false,
+    "projoin": false,
+    "prokick": false,
+    "proqr": false,
+    "readPoint": {},
+    "readPoints": {},
+    "responCall": false,
+    "setTime": {},
+    "setTimess": [],
+    "setkey": "",
+    "status": true,
+    "talkblacklist": [],
+    "target": {},
+    "tos": {},
+    "ttt": "line://app/1602687308-GXq4Vvk9?type=text&text=",
+    "userid": [],
+    "waktu": 2
+}
